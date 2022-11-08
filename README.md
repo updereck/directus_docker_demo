@@ -15,6 +15,11 @@ http://localhost:8055
 
 admin@example.com / d1r3ctu5
 
+
+npx create-react-app frontapp --template typescript
+
+cp -r sample/* frontapp/
+
 Frontapp:
 
 http://localhost:3000
